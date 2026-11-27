@@ -143,7 +143,11 @@ NEVER STOP EXPLORING
 
 <h3>🌍 MISSION 01</h3>
 
-<h2>TravelMateNE</h2>
+<h2>
+  <a href="https://github.com/prix999/TravelMateN">
+    🌍 TravelMateNE ↗
+  </a>
+</h2>
 
 <code>HACKATHON PROJECT</code>
 
