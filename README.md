@@ -2,7 +2,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="./assets/cyber-banner.svg" width="100%" alt="Prithika Dey Cybersecurity Banner"/>
+<img src="assets/prix999-cyberpunk-header.png" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Prithika+%F0%9F%91%8B;BCA+Student+%7C+Aspiring+Developer;Exploring+Cybersecurity+%F0%9F%94%90;Building+Ideas+Into+Reality+%F0%9F%9A%80;Creativity+Meets+Technology+%E2%9C%A8" />
 
