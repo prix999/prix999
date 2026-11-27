@@ -276,14 +276,30 @@ A community-focused cyber help portal developed as a BCA minor project.
 
   
 
-## 🌐 CONNECT WITH ME
+
+<h2 align="center">📡 COMMUNICATION HUB // ESTABLISH CONNECTION</h2>
+
+<p align="center">
+  <code>INCOMING CONNECTIONS ACCEPTED...</code>
+</p>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prithika_Dey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prithika-dey-436738304/)
-[![Instagram](https://img.shields.io/badge/Instagram-prithikadey_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prithikadey_/)
+<a href="https://github.com/prix999">
+  <img src="https://img.shields.io/badge/GITHUB-PRIX999-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4"/>
+</a>
 
-**Let's connect, collaborate and create something meaningful!**
+<a href="https://www.linkedin.com/in/prithika-dey-436738304/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://www.instagram.com/prithikadey_/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-PRITHIKADEY_-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="mailto:prithikadey9@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-SEND_MESSAGE-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
@@ -291,9 +307,24 @@ A community-focused cyber help portal developed as a BCA minor project.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:6C3B9B,100:141E30&height=110&section=footer" width="100%" />
+### 🖥️ END OF TRANSMISSION
 
-*Building my own path, one line of code at a time.* ✨
+```text
+[ SYSTEM MESSAGE ]
+
+Thanks for visiting my digital space.
+
+EXPLORE  //  CONNECT  //  COLLABORATE
+
+> Keep learning.
+> Keep building.
+> Stay curious.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071C20,50:6C3B9B,100:00F5D4&height=120&section=footer"/>
+
+<code>PRIX999 © 2026 | BUILT WITH CURIOSITY & CODE</code>
 
 </div>
+
 
