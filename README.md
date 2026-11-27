@@ -247,13 +247,34 @@ A community-focused cyber help portal developed as a BCA minor project.
 </p>
 
 
-## 🎨 BEYOND THE CODE
 
-💃 Odissi Classical Dance  
-🎤 Classical Singing  
-🎨 Painting & Art  
-🎙️ Public Speaking & MUNs  
-📸 Photography & Content Creation  
+<h2 align="center">🏆 ACHIEVEMENT UNLOCKED // XP LOG</h2>
+
+<div align="center">
+
+| LEVEL | ACHIEVEMENT | STATUS |
+|:---:|---|:---:|
+| 01 | 🚀 Hackathon Participant | UNLOCKED |
+| 02 | 🌍 TravelMateNE Project | UNLOCKED |
+| 03 | ⚡ ESP32 IoT Project | UNLOCKED |
+| 04 | 🔐 Cybersecurity Lab Practice | IN PROGRESS |
+| 05 | 🎤 MUN & Public Speaking | UNLOCKED |
+| 06 | 💃 Classical Dance & Music | UNLOCKED |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XP-ALWAYS%20EARNING-00F5D4?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/NEXT%20LEVEL-LOADING-9B5CFF?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+<p align="center">
+  <i>Every project is a new mission. Every skill is another level.</i>
+</p>
+
+---
+
+  
 
 ## 🌐 CONNECT WITH ME
 
