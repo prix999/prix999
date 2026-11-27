@@ -130,13 +130,86 @@ NEVER STOP EXPLORING
 </p>
 
 
-## 🚀 FEATURED PROJECTS
 
-| Project | Description |
-|---|---|
-| 🌍 TravelMateNE | Hackathon travel planning platform |
-| 🌡️ Smart Monitoring System | ESP32-based temperature and humidity monitoring |
-| 🔐 Cyber Help Portal | Community-focused cybersecurity project |
+<h2 align="center">🎮 MISSION CONTROL // PROJECT ARSENAL</h2>
+
+<p align="center">
+  <code>SELECT YOUR MISSION_</code>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌍 MISSION 01</h3>
+
+<h2>TravelMateNE</h2>
+
+<code>HACKATHON PROJECT</code>
+
+A travel-planning platform created during a hackathon, focused on making travel planning easier and more accessible.
+
+**MISSION OBJECTIVE**
+- Simplify travel planning
+- Explore intelligent recommendations
+- Build a useful travel experience
+
+<p><strong>STATUS:</strong> COMPLETED PROTOTYPE</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌡️ MISSION 02</h3>
+
+<h2>Smart IoT Monitor</h2>
+
+<code>HARDWARE / IOT</code>
+
+An ESP32-based temperature and humidity monitoring system with a monitoring dashboard.
+
+**MISSION OBJECTIVE**
+- Monitor environmental conditions
+- Work with ESP32 hardware
+- Display sensor information
+
+<p><strong>STATUS:</strong> PROJECT BUILT</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>🔐 MISSION 03 // CYBERSECURITY</h3>
+
+<h2>Secure Community Cyber Help Portal</h2>
+
+<code>WEB DEVELOPMENT / CYBERSECURITY</code>
+
+A community-focused cyber help portal developed as a BCA minor project.
+
+**TECH STACK**
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
+
+**MISSION OBJECTIVE**
+- Build a community cyber-help platform
+- Develop backend functionality
+- Explore secure web development
+
+<p><strong>STATUS:</strong> DEVELOPMENT PROJECT</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <code>MORE MISSIONS LOADING...</code>
+  <br/>
+  <img src="https://img.shields.io/badge/NEXT%20OBJECTIVE-KEEP%20BUILDING-00F5D4?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
 
 ## 📊 GITHUB ANALYTICS
 
