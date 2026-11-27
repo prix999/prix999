@@ -15,22 +15,72 @@
 
 ---
 
-## ✦ ABOUT ME
 
-```yaml
-name: Prithika Dey
-education: Bachelor of Computer Applications
-university: Girijananda Chowdhury University
-interests:
-  - Web Development
-  - Cybersecurity & Ethical Hacking
-  - Technology Research
-  - Creative Innovation
-currently_learning:
-  - Backend Development
-  - Advanced Web Technologies
-  - Network Security
+<h2 align="center">⚡ IDENTITY // USER PROFILE</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<h3>👾 PLAYER PROFILE</h3>
+<strong>PRITHIKA DEY</strong><br/>
+BCA Student | Developer<br/>
+Cybersecurity Enthusiast
+</td>
+<td align="center">
+<h3>🛡️ SYSTEM STATUS</h3>
+<strong>STATUS: LEARNING</strong><br/>
+CLASS: DEVELOPER<br/>
+MODE: BUILDING
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🖥️ TERMINAL ACCESS
+
+```bash
+┌──(prix999㉿kali)-[~]
+└─$ whoami
+
+Prithika Dey
+BCA Student | Aspiring Developer
+
+┌──(prix999㉿kali)-[~]
+└─$ cat mission.txt
+
+> Explore the digital frontier
+> Learn cybersecurity and ethical hacking
+> Build meaningful technology
+> Turn creative ideas into reality
+
+┌──(prix999㉿kali)-[~]
+└─$ echo "NEVER STOP EXPLORING"
+
+NEVER STOP EXPLORING
 ```
+
+### 🎯 CURRENT MISSIONS
+
+| Mission | Status |
+|---|---|
+| Web Development | `IN PROGRESS` |
+| Cybersecurity | `EXPLORING` |
+| Ethical Hacking | `LEARNING` |
+| Technology Research | `ACTIVE` |
+| Project Development | `BUILDING` |
+
+### 🧩 PLAYER ATTRIBUTES
+
+- 💻 Development & Problem Solving
+- 🔐 Cybersecurity Exploration
+- 🚀 Hackathons & Innovation
+- 🎨 Creative Thinking
+- 🎤 Communication & Leadership
+
+
 
 ## ⚡ TECH ARSENAL
 
