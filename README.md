@@ -215,15 +215,37 @@ A community-focused cyber help portal developed as a BCA minor project.
 </p>
 
 
-## 📊 GITHUB ANALYTICS
+
+<h2 align="center">📡 PLAYER DASHBOARD // LIVE TELEMETRY</h2>
+
+<p align="center">
+  <code>ACCESSING GITHUB DATABASE...</code>
+</p>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prix999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=9B59B6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prix999&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=9B5CFF&text_color=C9D1D9" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prix999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prix999&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" />
 
 </div>
+
+<h3 align="center">⚡ CONTRIBUTION ACTIVITY</h3>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prix999&bg_color=0D1117&color=00F5D4&line=9B5CFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prix999&label=PROFILE+VISITORS&color=00F5D4&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <code>TELEMETRY STATUS: EXTERNAL DATA SERVICES</code>
+</p>
+
 
 ## 🎨 BEYOND THE CODE
 
