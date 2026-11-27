@@ -82,20 +82,53 @@ NEVER STOP EXPLORING
 
 
 
-## ⚡ TECH ARSENAL
+<h2 align="center">⚔️ LOADOUT // TECH ARSENAL</h2>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+### 💻 DEVELOPMENT SKILLS
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### 🌐 BACKEND & DATABASE
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+### 🔐 CYBERSECURITY LAB
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00C9A7)
+![DVWA](https://img.shields.io/badge/DVWA-LAB-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+
+### ⚙️ DEVELOPMENT ENVIRONMENT
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
 
 </div>
+
+---
+
+### 🎮 CURRENT PLAYER STATS
+
+| ATTRIBUTE | SPECIALIZATION |
+|:---|:---|
+| 💻 Development | Web & Backend |
+| 🔐 Security | Ethical Hacking Labs |
+| 🌐 Networking | Network Fundamentals |
+| ⚙️ Hardware | ESP32 & IoT |
+| 🚀 Innovation | Hackathons & Projects |
+
+<p align="center">
+  <i>⚡ SKILLS UNLOCKED THROUGH LEARNING, BUILDING & EXPERIMENTATION ⚡</i>
+</p>
+
 
 ## 🚀 FEATURED PROJECTS
 
